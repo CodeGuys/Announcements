@@ -4,5 +4,5 @@
 ### JoGEn forked to CodeGuys
 I (John Kayne) added my JoGEn repository to CodeGuys in case anyone wanted to contribute to it.
 
-### Discord server to discuss code stuff
+### Discord server to discuss code stuff (discontinued)
 https://discord.gg/rFsa5p2
