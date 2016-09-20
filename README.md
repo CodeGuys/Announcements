@@ -1,7 +1,7 @@
 # Announcements
 
-## Tuesday Sep 13, 2016
-no updates for today
+## Tuesday Sep 20, 2016
+Updated JoGEn on main repository (JHNUXER)
 
 ## Friday, Aug 12, 2016
 ### JoGEn forked to CodeGuys
