@@ -1,5 +1,10 @@
 # Announcements
 
+## Saturday, Mar 11, 2017
+[JHNUXER] Recreated Discord Server: Link below
+
+https://discord.gg/WMHmWs5
+
 ## Tuesday Sep 20, 2016
 Updated JoGEn on main repository (JHNUXER)
 
