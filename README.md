@@ -1,5 +1,11 @@
 # Announcements
 
+## Sunday, Jun 28, 2020
+[JHNuxer] Officially resurrected CodeGuys. Considering re-instating the discord
+server, or changing the org name to HellishPotatoes and using my existing code
+discussion server for this org (and of course adding my HellishPotatoes friends
+to this org).
+
 ## Saturday, Mar 11, 2017
 [JHNUXER] Recreated Discord Server: Link below
 
